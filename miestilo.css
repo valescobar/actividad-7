@@ -1,0 +1,40 @@
+.imagenav{
+    height: 100%;
+}
+.jumbotron{
+    background-image: url('images/bg2.jpg');
+}
+.jumbotron h1{
+    font-size: 24px;
+}
+.jumbotron p{
+    font-size: 10px;
+}
+.header{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    color: white;
+    font-size: 10px;
+}
+.thumbnail{
+    padding: 0;
+    border: 8px solid #d4d2d2;
+    border-radius:24px;
+    text-align: center;
+    font-size: 11px
+}
+.thumbnail img{
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    width: 100%;
+}
+.aire{
+    padding: 10px;
+}
+h2{
+    font-size: 16px;
+}
+.center{
+    text-align: center;
+}
